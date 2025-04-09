@@ -1,0 +1,4 @@
+com\rishi\inventory\repository\ItemRepository.class
+com\rishi\inventory\InvApiApplication.class
+com\rishi\inventory\model\Item.class
+com\rishi\inventory\controller\ItemController.class
